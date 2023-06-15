@@ -55,3 +55,9 @@ public class FabricaDePersonajes{
         return num;
     }
 }
+
+public class archivosJson{
+    public void guardarPersonaje(List<personaje> lista, string nombre){
+        
+    }
+}
